@@ -1,4 +1,4 @@
-# Edição de imagens com o editor GIMP
+# Edição de imagens com o GIMP
 - - -
 Dicas de ouro:
 - - -
